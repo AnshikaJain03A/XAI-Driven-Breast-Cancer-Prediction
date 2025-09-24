@@ -35,7 +35,7 @@ This will open the notebook in your default web browser. You can then run each c
 
 ## Result
 
-The modified ResNet-50 model achieved training accuracy of 93.8021% and validation accuracy of 81.4414%. This verifies that although the model works better on trained data, it performs decently well on validation data too and can provide explanations for the prediction it makes by highlighting specific areas in the images.
+The modified ResNet-50 model achieved training accuracy of 92.1793% and validation accuracy of 79.3693%. This verifies that although the model works better on trained data, it performs decently well on validation data too and can provide explanations for the prediction it makes by highlighting specific areas in the images.
 
 ## Conclusion
 
